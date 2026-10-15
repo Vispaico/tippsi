@@ -341,7 +341,7 @@ And [**ArtCraft**](https://getartcraft.com/) itself, our AI image and video stud
   <a href="https://discord.gg/artcraft"><img alt="Join the ArtCraft community on Discord" src="https://img.shields.io/badge/Join%20us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"></a>
 </p>
 
-<h3 align="center">Come make things with us</h3>
+<h3 align="center">Come make things with us.</h3>
 
 <p align="center">
   Our Discord is where artists of every kind hang out: people who paint, shoot, draw, cut film,
