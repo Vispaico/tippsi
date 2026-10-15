@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">WordCraft</h1>
+<h1 align="center">TippSi</h1>
 
 <p align="center">
   <b>Writing and document design; an open-source, clean-room reimplementation of Microsoft Word, rebuilt in pure Rust.</b>
@@ -32,9 +32,9 @@
 </p>
 
 <p align="center">
-  <a href="https://getartcraft.com/apps/wordcraft"><b>WordCraft on getartcraft.com</b></a> ·
-  <a href="https://getartcraft.com/">ArtCraft</a> ·
-  <a href="https://getartcraft.com/apps">All Crafting Apps</a>
+  <a href="https://getartcraft.com/apps/wordcraft"><b>TippSi on turtelli.com</b></a> ·
+  <a href="https://getartcraft.com/">Turtelli</a> ·
+  <a href="https://getartcraft.com/apps">Buro Apps</a>
 </p>
 
 <br>
@@ -351,10 +351,9 @@ And [**ArtCraft**](https://getartcraft.com/) itself, our AI image and video stud
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/artcraft"><b>discord.gg/artcraft</b></a> ·
-  <a href="https://getartcraft.com/">getartcraft.com</a> ·
-  <a href="https://getartcraft.com/apps">The Crafting Apps</a> ·
-  <a href="https://getartcraft.com/apps/wordcraft">WordCraft</a>
+  <a href="https://turtelli.com/">turtelli.com</a> ·
+  <a href="https://getartcraft.com/apps">Buro Apps</a> ·
+  <a href="https://getartcraft.com/apps/wordcraft">TippSi</a>
 </p>
 
 ## License and credits
