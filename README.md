@@ -316,10 +316,10 @@ emerge --ask app-office/wordcraft-bin
 |---|---|---|
 | Static site | `wordcraft-web-<ver>.zip` | Runs in a modern browser; host it on any static server |
 
-## The Crafting Apps
+## The Buro Apps
 
-WordCraft is one of the **Crafting Apps**: free, open-source creative tools from the
-[ArtCraft](https://turtelli.com/) team, each written from scratch in Rust and each able to
+TippSi is one of the **Buro Apps**: free, open-source creative tools from the
+[Turtelli](https://turtelli.com/) team, each written from scratch in Rust and each able to
 stand on its own.
 
 | | App | What it's for | Code | Learn more |
@@ -333,27 +333,14 @@ stand on its own.
 | <img src="https://raw.githubusercontent.com/storytold/designcraft/main/assets/app-icon/hicolor/64x64/apps/ai.storyteller.designcraft.png" alt="" width="32" height="32"> | **DesignCraft** | Page layout and publishing | [GitHub](https://github.com/storytold/designcraft) | [Website](https://turtelli.com/apps/designcraft) |
 | <img src="https://raw.githubusercontent.com/storytold/wordcraft/main/assets/app-icon/hicolor/64x64/apps/ai.storyteller.wordcraft.png" alt="" width="32" height="32"> | **WordCraft** | **Writing and document design · you are here** | [GitHub](https://github.com/storytold/wordcraft) | [Website](https://turtelli.com/apps/wordcraft) |
 
-And [**ArtCraft**](https://turtelli.com/) itself, our AI image and video studio for artists who want real control.
+And [**Turtelli**](https://turtelli.com/) itself, our AI image and video studio for artists who want real control.
 
 <br>
 
 <p align="center">
-  <a href="https://turtelli.com"><img alt="Join the ArtCraft community on Turtelli" src="https://img.shields.io/badge/Join%20us%20on%20Turtelli-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"></a>
-</p>
-
-<h3 align="center">Come make things with us.</h3>
-
-<p align="center">
-  Our Discord is where artists of every kind hang out: people who paint, shoot, draw, cut film,
-  set type, and people still figuring out what they like to make. Share what you're working on,
-  ask for help, tell us what's broken, or tell us what you wish these tools could do.
-  Whatever your medium and however long you've been at it, you're welcome here.
-</p>
-
-<p align="center">
   <a href="https://turtelli.com/">turtelli.com</a> ·
   <a href="https://turtelli.com/apps">Buro Apps</a> ·
-  <a href="https://turtelli.com/apps/wordcraft">TippSi</a>
+  <a href="https://turtelli.com/apps/tippsi">TippSi</a>
 </p>
 
 ## License and credits
@@ -377,6 +364,6 @@ Forks and modified versions must remove them.
 <sub>Microsoft and Microsoft Word are trademarks of the Microsoft group of companies. Adobe, Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat, After Effects and InDesign are trademarks or registered trademarks of Adobe Inc. in the United States and/or other countries. WordCraft is an independent, open-source project and is not affiliated with, sponsored by or endorsed by Microsoft Corporation or Adobe Inc.; these names are used only to describe the workflows it is compatible with.</sub>
 
 <p align="center">
-  <a href="https://turtelli.com/"><img alt="ArtCraft" src="docs/brand/turtelli-mark.svg" width="28"></a><br>
-  <sub>Made by the <a href="https://turtelli.com/">ArtCraft</a> team and community.</sub>
+  <a href="https://turtelli.com/"><img alt="Turtelli" src="docs/brand/turtelli-mark.svg" width="28"></a><br>
+  <sub>Made by the <a href="https://turtelli.com/">Turtelli</a> team and community.</sub>
 </p>
